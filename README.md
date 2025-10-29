@@ -72,6 +72,5 @@ profile_card_app/
 
 ## 👨‍💻 Dibuat oleh
 
-**Haidir Zacky**  
-> Proyek latihan Flutter dengan kombinasi **State Management, Theme, dan Routing**.  
-> “Belajar Flutter gak harus rumit — cukup buat sesuatu yang hidup dan interaktif.” 🚀
+**Haidir Mirza Ahmad Zacky**
+**Informatics Engineer**
