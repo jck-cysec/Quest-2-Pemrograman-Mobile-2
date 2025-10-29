@@ -73,4 +73,5 @@ profile_card_app/
 ## 👨‍💻 Dibuat oleh
 
 **Haidir Mirza Ahmad Zacky**
+--
 **Informatics Engineer**
