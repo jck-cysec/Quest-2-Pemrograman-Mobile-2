@@ -71,7 +71,7 @@ profile_card_app/
 ---
 
 ## 🖼️ Screenshot Tampilan
-![Tampilan Website Gundam]()
+![Tampilan Website Gundam](ss.png)
 
 ---
 
